@@ -74,9 +74,10 @@ necessary for a successful deployment.
 
 ### Implementation Details/Notes/Constraints [optional]
 
-What are the caveats to the implementation? What are some important details that
-didn't come across above. Go in to as much detail as necessary here. This might
-be a good place to talk about core concepts and how they relate.
+For the first iteration, we will add a library to the installer that runs the validation
+suites every time the installer is run. In future iterations, and if other platforms are 
+interested in using the framework that we devise, we can also make an enhancement to add
+a `--dry-run` option to the installer cli.
 
 ### Risks and Mitigations
 
