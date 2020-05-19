@@ -181,7 +181,7 @@ History`.
 
 ## Drawbacks
 
-The idea is to find the best form of an argument why this enhancement should _not_ be implemented.
+- Running the dry run validations would increase the time it takes to run the installer
 
 ## Alternatives
 
