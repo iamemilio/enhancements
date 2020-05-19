@@ -188,11 +188,3 @@ The idea is to find the best form of an argument why this enhancement should _no
 Similar to the `Drawbacks` section the `Alternatives` section is used to
 highlight and record other possible approaches to delivering the value proposed
 by an enhancement.
-
-## Infrastructure Needed [optional]
-
-Use this section if you need things from the project. Examples include a new
-subproject, repos requested, github details, and/or testing infrastructure.
-
-Listing these here allows the community to get the process for these resources
-started right away.
